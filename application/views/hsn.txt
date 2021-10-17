@@ -1,0 +1,99 @@
+1. Live Animals
+2. Meat and Edible Meat Offal
+3. Fish
+4. Eggs
+5. Animal origin products
+6. Plants
+7. Edible vegetable
+8. Edible Fruit
+9. Tea
+10. Cereals for GST documents
+11. Milling industry products
+12. Medicinal plants
+13. Resins
+14. Vegetable products
+15. Fats of animal and vegetables
+16. Preparations of meat
+17. Sugar
+18. Cocoa and Cocoa Preparations
+19. Preparations of Flour
+20. Preparations of vegetables
+21. Essences
+22. Vinegar
+23. Animal fodder preparations
+24. Tobacco and products
+25. Salt
+26. Slag
+27. Mineral Waxes
+28. Inorganic chemicals
+29. Organic chemicals
+30. Pharmaceutical Products
+31. Fertilisers for GST
+32. Paints
+33. Cosmetics
+34. Soap
+35. Modified starches
+36. Matches
+37. Photographic goods
+38. Woods tar oils
+39. Plastics and articles
+40. Rubber and Rubber articles
+41. Leather
+42. Articles of leather
+43.	Fur skins and articles of fur
+44. Wood
+45. Cork and articles of cork
+46. Straw manufactures
+47. Wood pulp
+48. Paper
+49. Printed books
+50. Silk
+51. Wool
+52. Cotton
+53. Paper yarn
+54. Man made textile materials
+55. Man made staple fibres
+56. Special yarns
+57. Carpets and other textile floor coverings
+58. Special woven fabrics
+59. Coated
+60. Knitted fabrics and crocheted fabrics
+61. Artcles of apparel and clothing accessories
+62. Articles of not knitted or crocheted apparel and clothing
+63. Made-up textile aricles
+64. Footwear
+65. Headgear and headgear parts
+66. Umbrella
+67. Prepared feathers and article made of feathers
+68. Mica
+69. Ceramic products
+70. Glass and Glassware
+71. Pearls 
+72. Steel and Iron
+73. Steel articles and Iron articles
+74. Copper and Copper articles
+75. Nickel and Nickel articles
+76. Aluminium and Aluminium Articles
+77. Reserved for the future purpose 
+78. Lead and Lead articles
+79. Zinc and Zinc articles
+80. Tin and Tin articles
+81. GST for base metals
+82. Spoons
+83. Padlocks
+84. Machinery
+85. Electrical machinery
+86. Rolling stock parts
+87. Vehicles other than railway
+88. Spacecraft and parts
+89. Boats
+90. Photographic
+91. Watches
+92. Musical instruments
+93. Parts of arms and ammunition
+94. Bedding
+95. Toys
+96. Carving materials
+97. Art work
+98. Laboratory chemicals etc
+99. Used car
