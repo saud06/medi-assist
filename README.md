@@ -1,5 +1,5 @@
 # medi-assist
-Medicine &amp; drag (raw materials) purchase + maintenance assistant.
+Medicine &amp; drug (raw materials) purchase + maintenance assistant.
 
 Built with the PHP framework - Codeigniter.
 
